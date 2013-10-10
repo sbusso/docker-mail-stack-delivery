@@ -1,6 +1,4 @@
 # mail-stack-delivery + spamassassin
-# the mail-stack-delivery package will install Dovecot and configure Postfix to use it for both SASL authentication and as a Mail Delivery Agent (MDA). 
-# The package also configures Dovecot for IMAP, IMAPS, POP3, and POP3S.
 
 from		ubuntu
 
